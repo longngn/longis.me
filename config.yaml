@@ -1,0 +1,18 @@
+baseURL: https://longis.me/
+languageCode: en-us
+title: Long's Blog
+theme: hello-friend
+
+params:
+  defaultTheme: light
+
+languages:
+  en:
+    params:
+      logo:
+        logoText: longis.me
+    menu:
+      main:
+      - identifier: about
+        name: About
+        url: /about
