@@ -3,6 +3,7 @@ languageCode: en-us
 title: Long's Blog
 theme: hello-friend
 paginate: 100
+disqusShortname: longis-me
 
 params:
   defaultTheme: light
