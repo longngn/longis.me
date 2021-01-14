@@ -10,3 +10,11 @@ code[class*="language-"] {
   font-size: 2.2rem;
   margin: 0 0 13px;
 }
+
+.logo__mark {
+  margin-right: 0.4rem;
+}
+
+.logo__mark .greater-icon {
+  width: 1.4rem;
+}
