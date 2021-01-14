@@ -1,3 +1,7 @@
 .logo__cursor {
   display: none;
 }
+
+code[class*="language-"] {
+  white-space: pre-wrap;
+}

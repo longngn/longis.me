@@ -2,9 +2,11 @@ baseURL: https://longis.me/
 languageCode: en-us
 title: Long's Blog
 theme: hello-friend
+paginate: 100
 
 params:
   defaultTheme: light
+  showReadingTime: true
 
 languages:
   en:
@@ -14,5 +16,5 @@ languages:
     menu:
       main:
       - identifier: about
-        name: About
+        name: About Me
         url: /about
