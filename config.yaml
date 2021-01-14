@@ -20,3 +20,6 @@ languages:
       - identifier: about
         name: About Me
         url: /about
+      - identifier: archive
+        name: Archive
+        url: /archive
