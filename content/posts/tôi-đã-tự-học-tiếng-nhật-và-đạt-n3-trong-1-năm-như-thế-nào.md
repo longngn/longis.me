@@ -1,7 +1,7 @@
 ---
-title: "Tôi đã tự học tiếng Nhật và đạt N3 trong 1 năm như thế nào"
+title: Tôi đã tự học tiếng Nhật và đạt N3 trong 1 năm như thế nào
 date: 2018-03-06
-description: "Hiện nay có khá nhiều lộ trình tự học tiếng Nhật. Bản thân mình có cách học hơi khác người (kanji first) nhưng lại tỏ ra khá hiệu quả trong việc thi N và cải thiện khả năng reading."
+description: Hiện nay có khá nhiều lộ trình tự học tiếng Nhật. Bản thân mình có cách học hơi khác người (kanji first) nhưng lại tỏ ra khá hiệu quả trong việc thi N và cải thiện khả năng reading.
 ---
 
 {{< figure src="/img/jlpt-n3.png" alt="JLPT N3 result" position="center" caption="Kết quả thi N3 tháng 7/2017 của mình, full điểm đọc" >}}

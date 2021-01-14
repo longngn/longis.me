@@ -1,5 +1,5 @@
 ---
-title: "Configure VSCode for competitive programming"
+title: Configure VSCode for competitive programming
 date: 2017-08-30
 ---
 

@@ -1,12 +1,13 @@
 ---
-title: "Configure Docker project for different environments using Docker Compose 3"
+title: Configure Docker project for different environments using Docker Compose 3
 date: 2018-09-07
-description: "We all know that Docker is awesome, but when it comes to separating deployment configs, there is little to no strict guideline. In this article, I will try to explain one of the most popular techniques which is using `docker-compose` with environment variables. There is also an example with Node.js at the end."
 ---
 
 ![docker compose](/img/docker-compose.png)
 
 We all know that Docker is awesome, but when it comes to separating deployment configs, there is little to no strict guideline. In this article, I will try to explain one of the most popular techniques which is using `docker-compose` with environment variables. There is also an example with Node.js at the end.
+
+<!--more-->
 
 ## Why do we even need different configuration for each environment?
 
