@@ -18,3 +18,9 @@ code[class*="language-"] {
 .logo__mark .greater-icon {
   width: 1.4rem;
 }
+
+.social-link {
+  width: 24px;
+  height: 100%;
+  margin: 0 0.5rem;
+}
