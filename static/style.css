@@ -24,3 +24,7 @@ code[class*="language-"] {
   height: 100%;
   margin: 0 0.5rem;
 }
+
+.comments {
+  margin-top: 4rem;
+}

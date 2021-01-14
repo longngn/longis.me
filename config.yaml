@@ -6,6 +6,7 @@ paginate: 100
 disqusShortname: longis-me
 
 params:
+  contentTypeName: posts
   defaultTheme: light
   showReadingTime: true
 
