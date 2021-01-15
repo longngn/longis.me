@@ -22,8 +22,11 @@ languages:
     menu:
       main:
       - identifier: about
-        name: About Me
+        name: About me
         url: /about
+      - identifier: kofi
+        name: Buy me a coffee
+        url: https://ko-fi.com/longisme
       - identifier: archive
         name: Archive
         url: /archive
