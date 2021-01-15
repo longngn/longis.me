@@ -1,7 +1,7 @@
 baseURL: https://longis.me/
 languageCode: en-us
 title: Long's Blog
-theme: hello-friend
+theme: hello-friend-theme
 paginate: 100
 disqusShortname: longis-me
 enableRobotsTXT: true
