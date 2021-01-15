@@ -4,8 +4,12 @@ title: Long's Blog
 theme: hello-friend
 paginate: 100
 disqusShortname: longis-me
+enableRobotsTXT: true
+googleAnalytics: G-111E3ZFMZL
 
 params:
+  title: Long's Blog
+  description: Long writes about software engineering and technologies
   contentTypeName: posts
   defaultTheme: light
   showReadingTime: true
