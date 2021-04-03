@@ -5,7 +5,6 @@ theme: hello-friend-theme
 paginate: 100
 disqusShortname: longis-me
 enableRobotsTXT: true
-googleAnalytics: G-111E3ZFMZL
 
 params:
   title: Long's Blog
@@ -13,6 +12,7 @@ params:
   contentTypeName: posts
   defaultTheme: light
   showReadingTime: true
+  googleAnalyticsID: "G-111E3ZFMZL"
 
 languages:
   en:
