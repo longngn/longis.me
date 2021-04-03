@@ -1,2 +1,12 @@
 <link rel="shortcut icon" href="/favicon.ico" />
-{{ template "_internal/google_analytics_async.html" . }}
+
+{{ if .Site.Params.GoogleAnalyticsID }}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.GoogleAnalyticsID }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '{{ .Site.Params.GoogleAnalyticsID }}');
+</script>
+{{ end }}
